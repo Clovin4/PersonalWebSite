@@ -24,7 +24,7 @@ a:active{
 } */
 
 body{
-    background-color: mistyrose;
+    background-color: rgb(244, 244, 244,var(--tw-border-opacity));
     color: teal;
 
     font-family: Arial, Helvetica, sans-serif;

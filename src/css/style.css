@@ -38,7 +38,6 @@ body{
 .container{
     width: 80%;
     margin: auto;
-    padding: ;
 }
 
 .box-1{
@@ -91,6 +90,7 @@ body{
 }
 
 .categories li{
+    margin: 20px;
     padding-bottom: 6px;
     border-bottom: dotted;
     list-style-type: emoji-1;
@@ -100,4 +100,12 @@ body{
     system: cyclic;
     symbols: "\1F4A9";
     suffix: " ";
+}
+
+.cp_embed_wrapper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

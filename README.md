@@ -1,5 +1,15 @@
- # Personal Website
+ # Project: Personal Website
 
- ## In an attempt to teack myself some new stuff I am making a personal website to store my resume and other info as I go. 
+ ## Abstract: This is a sandbox type site where I can practice CSS, HTML, JS and anything else I see on the internet. 
 
- ## This is a place where I'll try new and cool things I see on the internet as well. A sandbox in a way.
+ ### Adding emoji characters in HTML/CSS
+
+ ```CSS
+@counter-style emoji-1 {
+    system: cyclic;
+    symbols: "\1F4A9";
+    suffix: " ";
+}
+ ```
+
+ Here \1F4A9 corresponds to the desired poop emoji.
